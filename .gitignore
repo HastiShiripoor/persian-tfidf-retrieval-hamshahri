@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dataset (third-party, not redistributed)
+data/HamshahriData/
+
+# Archives and large files
+*.rar
+*.zip
+*.7z
+
+# Secrets and local config
+.env
+*.key
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
